@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5FF729&width=435&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=39D353&width=435&lines=Welcome+to+my+GitHub+(%E3%82%B7_+_)%E3%82%B7)](https://git.io/typing-svg)
